@@ -1,6 +1,7 @@
-Hi, I'm Tousif 👋
-Welcome to my GitHub! I’m a passionate software developer from Bangladesh who loves solving problems and building cool projects. I specialize in C++, but I'm also exploring new technologies and languages to broaden my horizons.
+# HI, I'M TOUSIF 👋
+Welcome to my GitHub! I’m a passionate developer from Bangladesh who loves solving problems and building cool projects. I specialize in developing dynamic and responsive web applications using the JavaScript ecosystem. I work with technologies like React for building user interfaces, Node.js for server-side development, and Express.js for creating RESTful APIs. I’m also proficient in working with databases like MongoDB and MSSQL.
 
-📫 How to Reach Me
+I enjoy learning new frameworks and tools to improve my skills and deliver seamless, scalable web applications.
+## 📫 How to Reach Me
 Email: tousifchowdhurybd@gmail.com
 LinkedIn: [Tousif Chowdhury](https://www.linkedin.com/in/tousif-chowdhury-b6ab471b0/)
