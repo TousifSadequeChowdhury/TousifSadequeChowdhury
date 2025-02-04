@@ -5,3 +5,4 @@ I enjoy learning new frameworks and tools to improve my skills and deliver seaml
 ## 📫 How to Reach Me
 Email: tousifchowdhurybd@gmail.com
 LinkedIn: [Tousif Chowdhury](https://www.linkedin.com/in/tousif-chowdhury-b6ab471b0/)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TousifSadequeChowdhury&theme=dark)](https://git.io/streak-stats)
