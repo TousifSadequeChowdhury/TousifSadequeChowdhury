@@ -4,32 +4,48 @@ Welcome to my GitHub! I'm a passionate **MERN Stack Developer** from **Banglades
 
 ## 🚀 About Me
 - 🌟 **Aspiring Software Engineer** | Passionate about solving real-world problems through technology.
-- 💻 **Tech Stack**: React, Node.js, Express.js, MongoDB, MSSQL, JavaScript, Next.js, Tailwind CSS.
+- 💻 **Current Focus**: Deep diving into Next.js 14 App Router architecture and advanced TypeScript patterns
 - 🔥 Always eager to learn new frameworks, tools, and best practices to improve my skills.
 - 🚀 Enthusiastic about **performance optimization, scalability, and clean code.**
 
-## 🔧 Technologies & Tools
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)  
+## 🛠 Tech Stack
+### Core Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
-## 🌟 Projects
-Here are some of my recent projects:
+### Extended Stack
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
-🔹 [**Zapgadget**](https://zapgadget.netlify.app/) - A gadget e-commerce platform.  
-🔹 [**Alochona**](https://alochonaa.netlify.app/) - A discussion forum with AI-powered post generation.  
-🔹 [**FixedItUp**](https://fixeditup.netlify.app/) - A service-sharing platform for booking and managing services.
+## 🔨 Development Tools
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
-## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TousifSadequeChowdhury&theme=dark)](https://git.io/streak-stats)
+## 📊 Development Activity
+<div align="center">
 
-## 📫 Connect with Me
-- **Email:** tousifchowdhurybd@gmail.com  
-- **LinkedIn:** [Tousif Chowdhury](https://www.linkedin.com/in/tousif-chowdhury-b6ab471b0/)  
+**Consistency**  
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TousifSadequeChowdhury&theme=dark&border_radius=4.3" alt="GitHub Streak" /></a>
+**Total Impact**  
+[![Total Commits](https://img.shields.io/badge/Total_Commits-1.2k+-blue)](https://github.com/TousifSadequeChowdhury?tab=repositories)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome!-brightgreen)](https://github.com/TousifSadequeChowdhury)
+
+**Code Distribution**  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TousifSadequeChowdhury&layout=compact&theme=dark&hide=html,css)](https://github.com/TousifSadequeChowdhury)
+
+</div>
+
+## 📫 Let's Connect
+- 💼 **LinkedIn:** [Tousif Chowdhury](https://www.linkedin.com/in/tousif-chowdhury-b6ab471b0/)  
+- 📧 **Email:** [tousifchowdhurybd@gmail.com](mailto:tousifchowdhurybd@gmail.com)
+- 🐦 **LeetCode:** [TousifSadeque](https://leetcode.com/TousifSadeque/)
 
 ---
-⭐️ Feel free to check out my repositories and contribute!
+⭐️ Exploring innovative solutions daily - check out my [pinned repositories](https://github.com/TousifSadequeChowdhury) for latest projects!
