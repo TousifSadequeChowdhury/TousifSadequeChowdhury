@@ -1,51 +1,46 @@
-# Hi, I'm Tousif! 👋
-
-Welcome to my GitHub! I'm a passionate **MERN Stack Developer** from **Bangladesh** who loves solving problems and building innovative projects. I specialize in developing **scalable, user-centric** web applications using the **JavaScript ecosystem**.
-
-## 🚀 About Me
-- 🌟 **Aspiring Software Engineer** | Passionate about solving real-world problems through technology.
-- 💻 **Current Focus**: Deep diving into Next.js 14 App Router architecture and advanced TypeScript patterns
-- 🔥 Always eager to learn new frameworks, tools, and best practices to improve my skills.
-- 🚀 Enthusiastic about **performance optimization, scalability, and clean code.**
-
-## 🛠 Tech Stack
-### Core Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-
-### Extended Stack
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-
-## 🔨 Development Tools
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-
-## 📊 Development Activity
 <div align="center">
 
-**Consistency**  
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TousifSadequeChowdhury&theme=dark&border_radius=4.3" alt="GitHub Streak" /></a>
-**Total Impact**  
-[![Total Commits](https://img.shields.io/badge/Total_Commits-1.2k+-blue)](https://github.com/TousifSadequeChowdhury?tab=repositories)
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome!-brightgreen)](https://github.com/TousifSadequeChowdhury)
+# 👨💻 **Tousif Chowdhury**  
+`MERN Stack Developer` | `Problem Solver` | `Tech Enthusiast`
 
-**Code Distribution**  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TousifSadequeChowdhury&layout=compact&theme=dark&hide=html,css)](https://github.com/TousifSadequeChowdhury)
+[![Portfolio Shield](https://img.shields.io/badge/Explore_My_Work-000000?style=for-the-badge&logo=arc&logoColor=white)](https://yourportfolio.com)
+[![Email Shield](https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tousifchowdhurybd@gmail.com)
 
 </div>
 
-## 📫 Let's Connect
-- 💼 **LinkedIn:** [Tousif Chowdhury](https://www.linkedin.com/in/tousif-chowdhury-b6ab471b0/)  
-- 📧 **Email:** [tousifchowdhurybd@gmail.com](mailto:tousifchowdhurybd@gmail.com)
-- 🐦 **LeetCode:** [TousifSadeque](https://leetcode.com/TousifSadeque/)
+---
+
+### 🛠 **Crafting With**  
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-FFD700?logo=javascript&logoColor=black&style=flat-square" height="40">
+  <img src="https://img.shields.io/badge/React-58C3FF?logo=react&logoColor=white&style=flat-square" height="40">  
+  <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white&style=flat-square" height="40">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" height="40">
+  <br>
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat-square" height="40">
+  <img src="https://img.shields.io/badge/Tailwind-38BDF8?logo=tailwind-css&logoColor=white&style=flat-square" height="40">
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat-square" height="40">
+</p>
 
 ---
-⭐️ Exploring innovative solutions daily - check out my [pinned repositories](https://github.com/TousifSadequeChowdhury) for latest projects!
+
+### ✨ **Code Philosophy**  
+> *"Clean code is not just about working software,  
+> it's about creating digital poetry that scales."*
+
+- 🧠 **Problem First:** Requirements → Solution Architecture → Implementation  
+- 🎨 **UI/UX Focus:** Pixel-perfect implementations with intuitive interactions  
+- ⚡ **Performance:** Obsessed with Lighthouse scores and bundle optimization  
+- 🤝 **Collaboration:** Agile workflows with clear documentation  
+
+---
+
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tousif-chowdhury-b6ab471b0)
+[![GitHub](https://img.shields.io/badge/Explore_My_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TousifSadequeChowdhury)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TousifSadequeChowdhury&theme=dark&border_radius=4.3)](https://git.io/streak-stats)
+</div>
