@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/TousifSadequeChowdhury/TousifSadequeChowdhury/blob/main/banner.png?raw=true" alt="Banner" width="100%" />
+  <img src="https://github.com/TousifSadequeChowdhury/TousifSadequeChowdhury/blob/main/banner1.png?raw=true" alt="Banner" width="100%" />
 </div>
 
 <div align="center">
